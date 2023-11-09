@@ -3,6 +3,6 @@ In this project, we will be implementing a machine learning model which can pred
 
 Some Python libraries which is used in this project:
 
-Pandas – This library helps to load the data frame in a 2D array format and has multiple functions to perform analysis tasks in one go.
-Numpy – Numpy arrays are very fast and can perform large computations in a very short time.
-Matplotlib/Seaborn – This library is used to draw visualizations.
+#Pandas – This library helps to load the data frame in a 2D array format and has multiple functions to perform analysis tasks in one go.
+#Numpy – Numpy arrays are very fast and can perform large computations in a very short time.
+#Matplotlib/Seaborn – This library is used to draw visualizations.
